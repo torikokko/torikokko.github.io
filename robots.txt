@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torikokko.github.io/torikokko.github.io/sitemap.xml
