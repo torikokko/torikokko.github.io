@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on torikokko-portfolio</title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Projects on torikokko-portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>torinokoya.contact@gmail.com (とりこっこ)</managingEditor>
+    <webMaster>torinokoya.contact@gmail.com (とりこっこ)</webMaster>
+    <copyright>© 2025 とりこっこ</copyright>
+    <lastBuildDate>Sat, 13 Sep 2025 17:24:59 +0900</lastBuildDate><atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>こっち向いて担当！</title>
+      <link>https://example.org/projects/kocchi-muite-tanto/</link>
+      <pubDate>Sat, 13 Sep 2025 17:24:59 +0900</pubDate>
+      <author>torinokoya.contact@gmail.com (とりこっこ)</author>
+      <guid>https://example.org/projects/kocchi-muite-tanto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Penlight Rhythm</title>
+      <link>https://example.org/projects/penlight-rhythm/</link>
+      <pubDate>Sat, 13 May 2023 17:24:59 +0900</pubDate>
+      <author>torinokoya.contact@gmail.com (とりこっこ)</author>
+      <guid>https://example.org/projects/penlight-rhythm/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
